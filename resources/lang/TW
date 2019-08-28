@@ -1,0 +1,15 @@
+<?php
+
+/**
+ *  Taiwan Chinese translation strings for time, for example: /twitch/followage & /twitch/uptime
+ */
+return [
+    '年' => ':value year|:value years',
+    '月' => ':value month|:value months',
+    '周' => ':value week|:value weeks',
+    '日' => ':value day|:value days',
+    '時' => ':value hour|:value hours',
+    '分' => ':value minute|:value minutes',
+    '秒' => ':value second|:value seconds',
+    '錯誤的時區' => 'Invalid timezone specified: :timezone',
+];
